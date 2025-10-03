@@ -1,0 +1,101 @@
+host_id,neighbourhood_group,neighbourhood,price,number_of_reviews,availability_365
+2787,Brooklyn,,,9,365
+2845,Manhattan,Midtown,225,45,355
+4632,Manhattan,Harlem,150,,365
+4869,Brooklyn,,89,270,194
+7192,Manhattan,East Harlem,80,9,0
+7322,Manhattan,,200,74,129
+7356,Brooklyn,Bedford-Stuyvesant,60,49,0
+8967,Manhattan,Hell's Kitchen,,430,220
+7490,Manhattan,Upper West Side,,118,0
+7549,Manhattan,Chinatown,150,160,188
+7702,Manhattan,Upper West Side,135,53,6
+7989,Manhattan,Hell's Kitchen,85,188,39
+9744,Brooklyn,South Slope,89,167,314
+11528,Manhattan,Upper West Side,85,113,333
+11975,Manhattan,West Village,120,27,0
+15991,Brooklyn,Williamsburg,,148,46
+17571,Brooklyn,Fort Greene,215,198,321
+18946,Manhattan,Chelsea,140,260,12
+20950,Brooklyn,,99,53,21
+17985,Manhattan,East Harlem,190,,249
+21207,Brooklyn,Williamsburg,299,9,0
+22486,Brooklyn,Park Slope,130,130,347
+22486,Brooklyn,Park Slope,80,39,364
+22486,Brooklyn,Park Slope,,71,304
+25183,Brooklyn,Bedford-Stuyvesant,120,88,233
+25326,Brooklyn,Windsor Terrace,60,19,85
+26394,Manhattan,,80,,0
+30193,Manhattan,Hell's Kitchen,,58,75
+31374,Manhattan,Inwood,44,108,311
+21904,Manhattan,East Village,180,29,67
+32294,Manhattan,Harlem,50,242,355
+32045,Manhattan,Harlem,52,88,255
+32169,Brooklyn,Greenpoint,,197,284
+32294,Manhattan,Harlem,50,273,359
+35935,Brooklyn,Bedford-Stuyvesant,,74,269
+9744,Brooklyn,South Slope,89,168,340
+7355,Brooklyn,Bedford-Stuyvesant,35,,365
+44145,Brooklyn,Bushwick,,231,22
+45445,Brooklyn,Flatbush,150,,365
+7549,Manhattan,Lower East Side,40,214,188
+46978,Manhattan,East Village,68,245,96
+47610,Brooklyn,South Slope,120,15,345
+47618,Brooklyn,Fort Greene,120,25,311
+16800,Manhattan,,135,81,273
+47727,Manhattan,Harlem,,97,309
+49670,Brooklyn,,150,11,95
+50124,Queens,,130,248,215
+50148,Brooklyn,Bedford-Stuyvesant,110,61,265
+50846,Brooklyn,Bedford-Stuyvesant,115,11,0
+52335,Brooklyn,Fort Greene,80,135,192
+54275,Brooklyn,,80,112,251
+56094,Manhattan,Upper West Side,151,73,302
+56104,Brooklyn,Williamsburg,228,82,140
+56246,Brooklyn,Greenpoint,144,328,234
+56284,Manhattan,Kips Bay,200,19,257
+56512,Brooklyn,,150,105,30
+59023,Manhattan,Lower East Side,110,19,301
+59734,Manhattan,Hell's Kitchen,69,289,294
+32169,Brooklyn,Greenpoint,49,138,320
+60049,Manhattan,SoHo,180,21,154
+60252,Brooklyn,Williamsburg,80,42,263
+60278,Manhattan,,375,5,180
+61491,Manhattan,,250,66,231
+63588,Brooklyn,Prospect Heights,200,143,297
+63613,Brooklyn,Clinton Hill,55,27,292
+63924,Manhattan,Hell's Kitchen,52,191,191
+64056,Brooklyn,,225,4,0
+64442,Manhattan,,,338,72
+64522,Brooklyn,Williamsburg,275,148,362
+4396,Manhattan,East Village,99,106,336
+65837,Manhattan,East Harlem,225,190,215
+66035,Manhattan,,230,49,116
+66243,Manhattan,Hell's Kitchen,51,23,88
+68428,Manhattan,,65,49,336
+68599,Brooklyn,Clinton Hill,105,105,304
+69829,Manhattan,East Village,190,21,224
+69942,Manhattan,Upper East Side,200,142,322
+70091,Queens,Woodside,70,25,324
+71512,Brooklyn,Fort Greene,95,143,132
+71876,Manhattan,Chelsea,150,167,295
+72014,Brooklyn,,145,61,238
+73051,Manhattan,Harlem,110,54,209
+73128,Manhattan,,285,70,328
+73469,Brooklyn,Flatbush,130,16,38
+44263,Manhattan,Lower East Side,94,94,188
+74303,Brooklyn,Brooklyn Heights,800,25,7
+74857,Brooklyn,Williamsburg,105,61,272
+62407,Manhattan,East Village,,194,26
+76627,Manhattan,East Village,50,2,0
+72014,Brooklyn,Williamsburg,85,174,288
+961342,Brooklyn,Bushwick,,24,317
+78460,Brooklyn,Prospect Heights,131,166,207
+51038,Brooklyn,Clinton Hill,,16,185
+79070,Brooklyn,Prospect Heights,250,21,158
+79402,Brooklyn,Williamsburg,100,168,0
+44145,Brooklyn,Bushwick,105,118,9
+42032,Manhattan,Upper West Side,140,81,198
+82685,Manhattan,Harlem,89,1,365
+83257,Manhattan,Chelsea,98,30,364
+87773,Brooklyn,Bedford-Stuyvesant,125,139,311
